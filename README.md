@@ -1,1 +1,1 @@
-# OneManArmy
+All in one collection
